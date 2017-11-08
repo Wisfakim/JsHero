@@ -1,0 +1,103 @@
+{
+  "durationGame": 10,
+  "name": "GAME_0",
+  "numberOfLines" : 10,
+  "pngFile" :{
+      "path": "GAME_0.png",
+      "width" : "225",
+      "height" : "307"
+    },
+  "lines": {
+    "line0": {
+      "duration": 2500,
+      "taps" : {
+        "tap1": {
+          "delay": 1000,
+          "column" : 4,
+          "color" : "blue"
+        },
+        "tap2": {
+          "delay": 1500,
+          "column" : 1,
+          "color" : "red"
+        }
+      }
+    },
+    "line1": {
+      "duration": 5000,
+      "taps" : {
+        "tap1": {
+          "delay": 1000,
+          "column" : 2,
+          "color" : "orange"
+        },
+        "tap2": {
+          "delay": 1500,
+          "column" : 3,
+          "color" : "yellow"
+        }
+      }
+    },
+    "line2": {
+      "duration": 7500,
+      "taps" : {
+        "tap1": {
+          "delay": 1000,
+          "column" : "blue",
+          "column" : 2,
+          "color" : "red"
+        },
+        "tap2": {
+          "delay": 1500,
+          "column" : 1,
+          "color" : "yellow"
+        }
+      }
+    },
+    "line3": {
+      "duration": 10000,
+      "taps" : {
+        "tap1": {
+          "delay": 1000,
+          "column" : 3,
+          "color" : "blue"
+        },
+        "tap2": {
+          "delay": 1500,
+          "column" : 1,
+          "color" : "red"
+        }
+      }
+    },
+    "line4": {
+      "duration": 12500,
+      "taps" : {
+        "tap1": {
+          "delay": 1000,
+          "column" : 4,
+          "color" : "orange"
+        },
+        "tap2": {
+          "delay": 1500,
+          "column" : 4,
+          "color" : "yellow"
+        }
+      }
+    },
+    "line5": {
+      "duration": 15000,
+      "taps" : {
+        "tap1": {
+          "delay": 1000,
+          "column" : 2,
+          "color" : "blue"
+        },
+        "tap2": {
+          "delay": 1500,
+          "column" : 1,
+          "color" : "red"
+        }
+      }
+    }
+  }
+}

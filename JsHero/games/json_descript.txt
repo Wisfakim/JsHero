@@ -1,0 +1,3 @@
+Réference objet JSON 
+      durationGame : SECONDES
+      duration line : MS

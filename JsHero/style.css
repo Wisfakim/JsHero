@@ -1,0 +1,84 @@
+body{
+  margin: 0;
+}
+.header{
+  height : 5%;
+  background-color: lightgray;
+}
+.header > .score{
+}
+.music_zone{
+  height: 75%;
+  width : 100%;
+  margin: auto auto;
+  border: 1px solid black;
+  background-color: blue;
+  display: flex;
+
+}
+.music_zone > .image_zone{
+  height : 100%;
+  width : 30%;
+  background-color : lightgray;
+}
+.music_zone > .image_zone > .dynamic_image
+{
+}
+.music_zone > .hint_zone{
+  height : 100%;
+  width: 70%;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.music_zone > .hint_zone > .hint_line
+{
+  width: 20%;
+  border : 1px solid white;
+}
+.music_zone > .hint_zone > .hint_line > .hint_cube
+{
+  width:100%;
+  height: 20%;
+  background-color: pink;
+}
+.nouse
+{
+  display : none;
+  margin-top : 0;
+}
+.player_zone{
+  height : 20%;
+  background-color: lightgray;
+}
+.player_zone > .taping_zone{
+  margin-left: 30%;
+  width: 70%;
+  display : flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.player_zone > .taping_zone > .tap{
+  width : 20%;
+  height : 90%;
+  border : 1px solid black;
+  background-size: 100% 100%;
+  background-position: center;
+}
+#left_tap {
+
+  background-image: url('img/left-arrow.svg') ;
+}
+#up_tap {
+
+  background-image: url('img/up-arrow.svg');
+}
+#right_tap {
+
+  background-image: url('img/right-arrow.svg');
+}
+#down_tap {
+
+  background-image: url('img/down-arrow.svg') ;
+}
