@@ -9,91 +9,91 @@
     },
   "lines": {
     "line0": {
-      "duration": 2500,
+      "duration": 5000,
       "taps" : {
         "tap1": {
-          "delay": 1000,
+          "delay": 500,
           "column" : 4,
           "color" : "blue"
         },
         "tap2": {
-          "delay": 1500,
+          "delay": 2500,
           "column" : 1,
           "color" : "red"
         }
       }
     },
     "line1": {
-      "duration": 5000,
+      "duration": 10000,
       "taps" : {
         "tap1": {
-          "delay": 1000,
+          "delay": 2500,
           "column" : 2,
           "color" : "orange"
         },
         "tap2": {
-          "delay": 1500,
+          "delay": 2500,
           "column" : 3,
           "color" : "yellow"
         }
       }
     },
     "line2": {
-      "duration": 7500,
+      "duration": 15000,
       "taps" : {
         "tap1": {
-          "delay": 1000,
+          "delay": 2500,
           "column" : "blue",
           "column" : 2,
           "color" : "red"
         },
         "tap2": {
-          "delay": 1500,
+          "delay": 2500,
           "column" : 1,
           "color" : "yellow"
         }
       }
     },
     "line3": {
-      "duration": 10000,
+      "duration": 20000,
       "taps" : {
         "tap1": {
-          "delay": 1000,
+          "delay": 2500,
           "column" : 3,
           "color" : "blue"
         },
         "tap2": {
-          "delay": 1500,
+          "delay": 2500,
           "column" : 1,
           "color" : "red"
         }
       }
     },
     "line4": {
-      "duration": 12500,
+      "duration": 25000,
       "taps" : {
         "tap1": {
-          "delay": 1000,
+          "delay": 2500,
           "column" : 4,
           "color" : "orange"
         },
         "tap2": {
-          "delay": 1500,
-          "column" : 4,
+          "delay": 2500,
+          "column" : 1,
           "color" : "yellow"
         }
       }
     },
     "line5": {
-      "duration": 15000,
+      "duration": 30000,
       "taps" : {
         "tap1": {
-          "delay": 1000,
+          "delay": 2500,
           "column" : 2,
           "color" : "blue"
         },
         "tap2": {
-          "delay": 1500,
+          "delay": 2500,
           "column" : 1,
           "color" : "red"
         }

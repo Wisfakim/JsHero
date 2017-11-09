@@ -46,7 +46,7 @@ body{
 .nouse
 {
   display : none;
-  margin-top : 0;
+  margin-top : 0px;
 }
 .player_zone{
   height : 20%;
